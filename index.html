@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+     <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
+     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css"/>     
+     <link rel="stylesheet" type="text/css" href="include/datetimepicker-master/jquery.datetimepicker.css"/>
+     <link rel="stylesheet" href="css/main.css">
+  </head>
+  <body>
+     
+    Estações: <select id="station" name="station">
+      <option value="CBYIP">CBYIP</option>
+      <option value="DIIP">DIIP</option>
+      <option value="KVIP">KVIP</option>
+      <option value="BACAX">BACAX</option>
+      <option value="NCBC">NCBC</option>
+      <option value="BACUS">BACUS</option>
+      <option value="BACUS.H1">BACUS.H1</option>
+      <option value="BACUS.H2">BACUS.H2</option>
+      <option value="BACVP">BACVP</option>
+      <option value="NC27.H1">NC27.H1</option>
+      <option value="NC27.H2">NC27.H2</option>
+      <option value="NC89.H1">NC89.H1</option>
+      <option value="NC89.H2">NC89.H2</option>
+      <option value="CQS64.H2">CQS64.H2</option>
+      <option value="CQS64.H1">CQS64.H1</option>
+      <option value="KEMO">KEMO</option>
+      <option value="FGPD">FGPD</option>
+      <option value="CRIP">CRIP</option>
+      <option value="PHYD">PHYD</option>
+      <option value="PVIP">PVIP</option>
+      <option value="SGC.H1">SGC.H1</option>
+      <option value="SCVIP">SCVIP</option>
+      <option value="LSHA.H1">LSHA.H1</option>
+      <option value="LSHA.H2">LSHA.H2</option>
+      <option value="LSHA.H3">LSHA.H3</option>
+      <option value="LSHA.H4">LSHA.H4</option>
+      <option value="LSHA.H5">LSHA.H5</option>
+      <option value="SEDDL">SEDDL</option>
+      <option value="SGE.H1">SGE.H1</option>
+      <option value="SGE.H2">SGE.H2</option>
+      <option value="ECHO1.H1">ECHO1.H1</option>
+      <option value="ECHO1.H2">ECHO1.H2</option>
+      <option value="ECHO1.H3">ECHO1.H3</option>
+      <option value="ECHO1.H4">ECHO1.H4</option>
+      <option value="ECHO2.H1">ECHO2.H1</option>
+      <option value="ECHO2.H2">ECHO2.H2</option>
+      <option value="ECHO2.H3">ECHO2.H3</option>
+      <option value="ECHO2.H4">ECHO2.H4</option>
+      <option value="SEHA.H1">SEHA.H1</option>
+      <option value="SEHA.H2">SEHA.H2</option>
+      <option value="SEHA.H3">SEHA.H3</option>
+      <option value="SEHA.H4">SEHA.H4</option>
+      <option value="SEHA.H5">SEHA.H5</option>
+      <option value="SEHDW">SEHDW</option>
+    </select>     
+     
+    <br > 
+    <br >
+    
+    De: <input class="dates" type="text" id="d0" /> até  <input class="dates"  type="text" id="dn" /> 
+    
+    <input type="button" id="load" name="load" value="Carregar" />   
+    <span id="msg"></span>
+    
+   
+    <img id="loading" src="img/loading.gif" />
+    
+    <br >
+    <br >
+    
+    <div id="grid_files"> </div>     
+  
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js" type="application/javascript"></script>
+    <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js" type="application/javascript"></script>
+    <script src="include/datetimepicker-master/build/jquery.datetimepicker.full.js" type="application/javascript"></script>
+    <script src="include/jquery.loadJSON.js" type="application/javascript"></script>
+    <script src="include/main.js" type="application/javascript"></script>
+  </body>
+</html>
