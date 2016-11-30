@@ -1,0 +1,3147 @@
+[
+
+  {
+
+    "archivedDate": "2015-04-02T17:47:17.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 5,
+
+    "dateFrom": "2015-03-25T00:00:00.000Z",
+
+    "dateTo": "2015-03-26T00:00:00.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2378,
+
+    "filename": "ICLISTENHF1288_20150325T000000.000Z.txt",
+
+    "modifyDate": "2015-04-02T17:47:18.000Z",
+
+    "uncompressedFileSize": 9504
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:33.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T11:58:18.000Z",
+
+    "dateTo": "2015-03-25T12:03:18.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 36687,
+
+    "filename": "ICLISTENHF1288_20150325T115818.500Z-small.png",
+
+    "modifyDate": "2015-03-25T22:35:33.000Z",
+
+    "uncompressedFileSize": 36687
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:33.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T11:58:18.000Z",
+
+    "dateTo": "2015-03-25T12:03:18.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 10125,
+
+    "filename": "ICLISTENHF1288_20150325T115818.500Z-thumb.png",
+
+    "modifyDate": "2015-03-25T22:35:33.000Z",
+
+    "uncompressedFileSize": 10125
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:06:42.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 104,
+
+    "dateFrom": "2015-03-25T11:58:18.000Z",
+
+    "dateTo": "2015-03-25T12:03:18.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 298283,
+
+    "filename": "ICLISTENHF1288_20150325T115818.500Z.fft",
+
+    "modifyDate": "2015-03-25T22:30:15.000Z",
+
+    "uncompressedFileSize": 1591003
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:22.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T11:58:18.000Z",
+
+    "dateTo": "2015-03-25T12:03:18.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 189782,
+
+    "filename": "ICLISTENHF1288_20150325T115818.500Z.png",
+
+    "modifyDate": "2015-03-25T22:35:22.000Z",
+
+    "uncompressedFileSize": 189782
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T18:45:40.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 46,
+
+    "dateFrom": "2015-03-25T11:59:25.000Z",
+
+    "dateTo": "2015-03-25T12:04:25.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2400868,
+
+    "filename": "ICLISTENHF1288_20150325T115925.000Z-audio.mp3",
+
+    "modifyDate": "2015-10-20T18:45:41.000Z",
+
+    "uncompressedFileSize": 2400868
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T18:45:41.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T11:59:25.000Z",
+
+    "dateTo": "2015-03-25T12:04:25.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 39370,
+
+    "filename": "ICLISTENHF1288_20150325T115925.000Z-spect-small.png",
+
+    "modifyDate": "2015-10-20T18:45:41.000Z",
+
+    "uncompressedFileSize": 39370
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T18:45:41.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T11:59:25.000Z",
+
+    "dateTo": "2015-03-25T12:04:25.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 9826,
+
+    "filename": "ICLISTENHF1288_20150325T115925.000Z-spect-thumb.png",
+
+    "modifyDate": "2015-10-20T18:45:41.000Z",
+
+    "uncompressedFileSize": 9826
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T18:45:41.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 175,
+
+    "dateFrom": "2015-03-25T11:59:25.000Z",
+
+    "dateTo": "2015-03-25T12:04:25.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 117445,
+
+    "filename": "ICLISTENHF1288_20150325T115925.000Z-spect.mat",
+
+    "modifyDate": "2015-10-20T18:45:41.000Z",
+
+    "uncompressedFileSize": 117417
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T18:45:41.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T11:59:25.000Z",
+
+    "dateTo": "2015-03-25T12:04:25.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 281132,
+
+    "filename": "ICLISTENHF1288_20150325T115925.000Z-spect.png",
+
+    "modifyDate": "2015-10-20T18:45:41.000Z",
+
+    "uncompressedFileSize": 281132
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-12T01:19:55.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 8,
+
+    "dateFrom": "2015-03-25T11:59:25.000Z",
+
+    "dateTo": "2015-03-25T12:04:22.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 38652507,
+
+    "filename": "ICLISTENHF1288_20150325T115925.000Z.wav",
+
+    "modifyDate": "2015-10-20T18:42:04.000Z",
+
+    "uncompressedFileSize": 57600044
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:33.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:03:18.000Z",
+
+    "dateTo": "2015-03-25T12:08:18.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 35241,
+
+    "filename": "ICLISTENHF1288_20150325T120318.500Z-small.png",
+
+    "modifyDate": "2015-03-25T22:35:34.000Z",
+
+    "uncompressedFileSize": 35241
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:34.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:03:18.000Z",
+
+    "dateTo": "2015-03-25T12:08:18.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 10003,
+
+    "filename": "ICLISTENHF1288_20150325T120318.500Z-thumb.png",
+
+    "modifyDate": "2015-03-25T22:35:34.000Z",
+
+    "uncompressedFileSize": 10003
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:06:43.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 104,
+
+    "dateFrom": "2015-03-25T12:03:18.000Z",
+
+    "dateTo": "2015-03-25T12:08:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 287879,
+
+    "filename": "ICLISTENHF1288_20150325T120318.500Z.fft",
+
+    "modifyDate": "2015-03-25T22:30:21.000Z",
+
+    "uncompressedFileSize": 1573095
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:33.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:03:18.000Z",
+
+    "dateTo": "2015-03-25T12:08:18.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 180594,
+
+    "filename": "ICLISTENHF1288_20150325T120318.500Z.png",
+
+    "modifyDate": "2015-03-25T22:35:33.000Z",
+
+    "uncompressedFileSize": 180594
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T00:30:13.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 46,
+
+    "dateFrom": "2015-03-25T12:04:23.000Z",
+
+    "dateTo": "2015-03-25T12:09:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2400868,
+
+    "filename": "ICLISTENHF1288_20150325T120423.000Z-audio.mp3",
+
+    "modifyDate": "2015-10-20T00:30:16.000Z",
+
+    "uncompressedFileSize": 2400868
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T00:30:07.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:04:23.000Z",
+
+    "dateTo": "2015-03-25T12:09:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 35953,
+
+    "filename": "ICLISTENHF1288_20150325T120423.000Z-spect-small.png",
+
+    "modifyDate": "2015-10-20T00:30:07.000Z",
+
+    "uncompressedFileSize": 35953
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T00:30:07.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:04:23.000Z",
+
+    "dateTo": "2015-03-25T12:09:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 9044,
+
+    "filename": "ICLISTENHF1288_20150325T120423.000Z-spect-thumb.png",
+
+    "modifyDate": "2015-10-20T00:30:07.000Z",
+
+    "uncompressedFileSize": 9044
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T00:30:07.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 175,
+
+    "dateFrom": "2015-03-25T12:04:23.000Z",
+
+    "dateTo": "2015-03-25T12:09:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 117405,
+
+    "filename": "ICLISTENHF1288_20150325T120423.000Z-spect.mat",
+
+    "modifyDate": "2015-10-20T00:30:07.000Z",
+
+    "uncompressedFileSize": 117411
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T00:30:17.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:04:23.000Z",
+
+    "dateTo": "2015-03-25T12:09:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 262374,
+
+    "filename": "ICLISTENHF1288_20150325T120423.000Z-spect.png",
+
+    "modifyDate": "2015-10-20T00:30:17.000Z",
+
+    "uncompressedFileSize": 262374
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-12T01:19:42.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 8,
+
+    "dateFrom": "2015-03-25T12:04:23.000Z",
+
+    "dateTo": "2015-03-25T12:09:22.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 38407387,
+
+    "filename": "ICLISTENHF1288_20150325T120423.000Z.wav",
+
+    "modifyDate": "2015-10-20T00:25:24.000Z",
+
+    "uncompressedFileSize": 57600044
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:34.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:08:16.000Z",
+
+    "dateTo": "2015-03-25T12:13:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 34158,
+
+    "filename": "ICLISTENHF1288_20150325T120816.500Z-small.png",
+
+    "modifyDate": "2015-03-25T22:35:34.000Z",
+
+    "uncompressedFileSize": 34158
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:34.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:08:16.000Z",
+
+    "dateTo": "2015-03-25T12:13:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 9172,
+
+    "filename": "ICLISTENHF1288_20150325T120816.500Z-thumb.png",
+
+    "modifyDate": "2015-03-25T22:35:35.000Z",
+
+    "uncompressedFileSize": 9172
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:06:43.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 104,
+
+    "dateFrom": "2015-03-25T12:08:16.000Z",
+
+    "dateTo": "2015-03-25T12:13:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 286004,
+
+    "filename": "ICLISTENHF1288_20150325T120816.500Z.fft",
+
+    "modifyDate": "2015-03-25T22:30:26.000Z",
+
+    "uncompressedFileSize": 1571822
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:34.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:08:16.000Z",
+
+    "dateTo": "2015-03-25T12:13:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 178275,
+
+    "filename": "ICLISTENHF1288_20150325T120816.500Z.png",
+
+    "modifyDate": "2015-03-25T22:35:34.000Z",
+
+    "uncompressedFileSize": 178275
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:50:49.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 46,
+
+    "dateFrom": "2015-03-25T12:09:23.000Z",
+
+    "dateTo": "2015-03-25T12:14:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2400868,
+
+    "filename": "ICLISTENHF1288_20150325T120923.000Z-audio.mp3",
+
+    "modifyDate": "2015-10-22T03:50:49.000Z",
+
+    "uncompressedFileSize": 2400868
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:50:39.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:09:23.000Z",
+
+    "dateTo": "2015-03-25T12:14:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 35111,
+
+    "filename": "ICLISTENHF1288_20150325T120923.000Z-spect-small.png",
+
+    "modifyDate": "2015-10-22T03:50:39.000Z",
+
+    "uncompressedFileSize": 35111
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:50:39.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:09:23.000Z",
+
+    "dateTo": "2015-03-25T12:14:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 9169,
+
+    "filename": "ICLISTENHF1288_20150325T120923.000Z-spect-thumb.png",
+
+    "modifyDate": "2015-10-22T03:50:39.000Z",
+
+    "uncompressedFileSize": 9169
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:50:39.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 175,
+
+    "dateFrom": "2015-03-25T12:09:23.000Z",
+
+    "dateTo": "2015-03-25T12:14:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 117369,
+
+    "filename": "ICLISTENHF1288_20150325T120923.000Z-spect.mat",
+
+    "modifyDate": "2015-10-22T03:50:39.000Z",
+
+    "uncompressedFileSize": 117322
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:50:39.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:09:23.000Z",
+
+    "dateTo": "2015-03-25T12:14:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 252248,
+
+    "filename": "ICLISTENHF1288_20150325T120923.000Z-spect.png",
+
+    "modifyDate": "2015-10-22T03:50:39.000Z",
+
+    "uncompressedFileSize": 252248
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-12T01:22:03.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 8,
+
+    "dateFrom": "2015-03-25T12:09:23.000Z",
+
+    "dateTo": "2015-03-25T12:14:22.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 38344155,
+
+    "filename": "ICLISTENHF1288_20150325T120923.000Z.wav",
+
+    "modifyDate": "2015-10-22T03:47:32.000Z",
+
+    "uncompressedFileSize": 57600044
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:06.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:13:16.000Z",
+
+    "dateTo": "2015-03-25T12:18:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 32776,
+
+    "filename": "ICLISTENHF1288_20150325T121316.500Z-small.png",
+
+    "modifyDate": "2015-03-25T22:36:06.000Z",
+
+    "uncompressedFileSize": 32776
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:06.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:13:16.000Z",
+
+    "dateTo": "2015-03-25T12:18:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 9172,
+
+    "filename": "ICLISTENHF1288_20150325T121316.500Z-thumb.png",
+
+    "modifyDate": "2015-03-25T22:36:06.000Z",
+
+    "uncompressedFileSize": 9172
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:06:43.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 104,
+
+    "dateFrom": "2015-03-25T12:13:16.000Z",
+
+    "dateTo": "2015-03-25T12:18:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 284250,
+
+    "filename": "ICLISTENHF1288_20150325T121316.500Z.fft",
+
+    "modifyDate": "2015-03-25T22:30:32.000Z",
+
+    "uncompressedFileSize": 1571173
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:05.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:13:16.000Z",
+
+    "dateTo": "2015-03-25T12:18:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 171280,
+
+    "filename": "ICLISTENHF1288_20150325T121316.500Z.png",
+
+    "modifyDate": "2015-03-25T22:36:05.000Z",
+
+    "uncompressedFileSize": 171280
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T19:45:13.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 46,
+
+    "dateFrom": "2015-03-25T12:14:23.000Z",
+
+    "dateTo": "2015-03-25T12:19:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2400868,
+
+    "filename": "ICLISTENHF1288_20150325T121423.000Z-audio.mp3",
+
+    "modifyDate": "2015-10-20T19:45:13.000Z",
+
+    "uncompressedFileSize": 2400868
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T19:45:11.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:14:23.000Z",
+
+    "dateTo": "2015-03-25T12:19:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 33494,
+
+    "filename": "ICLISTENHF1288_20150325T121423.000Z-spect-small.png",
+
+    "modifyDate": "2015-10-20T19:45:11.000Z",
+
+    "uncompressedFileSize": 33494
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T19:45:11.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:14:23.000Z",
+
+    "dateTo": "2015-03-25T12:19:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 9293,
+
+    "filename": "ICLISTENHF1288_20150325T121423.000Z-spect-thumb.png",
+
+    "modifyDate": "2015-10-20T19:45:11.000Z",
+
+    "uncompressedFileSize": 9293
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T19:45:27.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 175,
+
+    "dateFrom": "2015-03-25T12:14:23.000Z",
+
+    "dateTo": "2015-03-25T12:19:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 117383,
+
+    "filename": "ICLISTENHF1288_20150325T121423.000Z-spect.mat",
+
+    "modifyDate": "2015-10-20T19:45:27.000Z",
+
+    "uncompressedFileSize": 117422
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T19:45:27.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:14:23.000Z",
+
+    "dateTo": "2015-03-25T12:19:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 248567,
+
+    "filename": "ICLISTENHF1288_20150325T121423.000Z-spect.png",
+
+    "modifyDate": "2015-10-20T19:45:27.000Z",
+
+    "uncompressedFileSize": 248567
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-12T01:22:10.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 8,
+
+    "dateFrom": "2015-03-25T12:14:23.000Z",
+
+    "dateTo": "2015-03-25T12:19:22.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 38347992,
+
+    "filename": "ICLISTENHF1288_20150325T121423.000Z.wav",
+
+    "modifyDate": "2015-10-20T19:41:09.000Z",
+
+    "uncompressedFileSize": 57600044
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:19.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:18:16.000Z",
+
+    "dateTo": "2015-03-25T12:23:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 33623,
+
+    "filename": "ICLISTENHF1288_20150325T121816.500Z-small.png",
+
+    "modifyDate": "2015-03-25T22:36:19.000Z",
+
+    "uncompressedFileSize": 33623
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:19.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:18:16.000Z",
+
+    "dateTo": "2015-03-25T12:23:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 9386,
+
+    "filename": "ICLISTENHF1288_20150325T121816.500Z-thumb.png",
+
+    "modifyDate": "2015-03-25T22:36:19.000Z",
+
+    "uncompressedFileSize": 9386
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:06:43.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 104,
+
+    "dateFrom": "2015-03-25T12:18:16.000Z",
+
+    "dateTo": "2015-03-25T12:23:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 284379,
+
+    "filename": "ICLISTENHF1288_20150325T121816.500Z.fft",
+
+    "modifyDate": "2015-03-25T22:30:38.000Z",
+
+    "uncompressedFileSize": 1571144
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:19.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:18:16.000Z",
+
+    "dateTo": "2015-03-25T12:23:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 173008,
+
+    "filename": "ICLISTENHF1288_20150325T121816.500Z.png",
+
+    "modifyDate": "2015-03-25T22:36:19.000Z",
+
+    "uncompressedFileSize": 173008
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T18:46:00.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 46,
+
+    "dateFrom": "2015-03-25T12:19:23.000Z",
+
+    "dateTo": "2015-03-25T12:24:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2400868,
+
+    "filename": "ICLISTENHF1288_20150325T121923.000Z-audio.mp3",
+
+    "modifyDate": "2015-10-20T18:46:00.000Z",
+
+    "uncompressedFileSize": 2400868
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T18:46:00.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:19:23.000Z",
+
+    "dateTo": "2015-03-25T12:24:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 33801,
+
+    "filename": "ICLISTENHF1288_20150325T121923.000Z-spect-small.png",
+
+    "modifyDate": "2015-10-20T18:46:00.000Z",
+
+    "uncompressedFileSize": 33801
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T18:46:00.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:19:23.000Z",
+
+    "dateTo": "2015-03-25T12:24:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 9010,
+
+    "filename": "ICLISTENHF1288_20150325T121923.000Z-spect-thumb.png",
+
+    "modifyDate": "2015-10-20T18:46:00.000Z",
+
+    "uncompressedFileSize": 9010
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T18:46:00.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 175,
+
+    "dateFrom": "2015-03-25T12:19:23.000Z",
+
+    "dateTo": "2015-03-25T12:24:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 117472,
+
+    "filename": "ICLISTENHF1288_20150325T121923.000Z-spect.mat",
+
+    "modifyDate": "2015-10-20T18:46:00.000Z",
+
+    "uncompressedFileSize": 117443
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T18:46:00.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:19:23.000Z",
+
+    "dateTo": "2015-03-25T12:24:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 249300,
+
+    "filename": "ICLISTENHF1288_20150325T121923.000Z-spect.png",
+
+    "modifyDate": "2015-10-20T18:46:00.000Z",
+
+    "uncompressedFileSize": 249300
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-12T01:20:03.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 8,
+
+    "dateFrom": "2015-03-25T12:19:23.000Z",
+
+    "dateTo": "2015-03-25T12:24:22.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 38212589,
+
+    "filename": "ICLISTENHF1288_20150325T121923.000Z.wav",
+
+    "modifyDate": "2015-10-20T18:42:27.000Z",
+
+    "uncompressedFileSize": 57600044
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:19.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:23:16.000Z",
+
+    "dateTo": "2015-03-25T12:28:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 33054,
+
+    "filename": "ICLISTENHF1288_20150325T122316.500Z-small.png",
+
+    "modifyDate": "2015-03-25T22:36:19.000Z",
+
+    "uncompressedFileSize": 33054
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:19.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:23:16.000Z",
+
+    "dateTo": "2015-03-25T12:28:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 9142,
+
+    "filename": "ICLISTENHF1288_20150325T122316.500Z-thumb.png",
+
+    "modifyDate": "2015-03-25T22:36:19.000Z",
+
+    "uncompressedFileSize": 9142
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:06:43.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 104,
+
+    "dateFrom": "2015-03-25T12:23:16.000Z",
+
+    "dateTo": "2015-03-25T12:28:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 283062,
+
+    "filename": "ICLISTENHF1288_20150325T122316.500Z.fft",
+
+    "modifyDate": "2015-03-25T22:30:44.000Z",
+
+    "uncompressedFileSize": 1570077
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:19.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:23:16.000Z",
+
+    "dateTo": "2015-03-25T12:28:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 169228,
+
+    "filename": "ICLISTENHF1288_20150325T122316.500Z.png",
+
+    "modifyDate": "2015-03-25T22:36:19.000Z",
+
+    "uncompressedFileSize": 169228
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-14T18:03:49.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 46,
+
+    "dateFrom": "2015-03-25T12:24:23.000Z",
+
+    "dateTo": "2015-03-25T12:29:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2400868,
+
+    "filename": "ICLISTENHF1288_20150325T122423.000Z-audio.mp3",
+
+    "modifyDate": "2015-10-14T18:03:49.000Z",
+
+    "uncompressedFileSize": 2400868
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-14T18:04:11.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:24:23.000Z",
+
+    "dateTo": "2015-03-25T12:29:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 31851,
+
+    "filename": "ICLISTENHF1288_20150325T122423.000Z-spect-small.png",
+
+    "modifyDate": "2015-10-14T18:04:11.000Z",
+
+    "uncompressedFileSize": 31851
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-14T18:04:11.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:24:23.000Z",
+
+    "dateTo": "2015-03-25T12:29:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 9295,
+
+    "filename": "ICLISTENHF1288_20150325T122423.000Z-spect-thumb.png",
+
+    "modifyDate": "2015-10-14T18:04:11.000Z",
+
+    "uncompressedFileSize": 9295
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-14T18:04:12.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 175,
+
+    "dateFrom": "2015-03-25T12:24:23.000Z",
+
+    "dateTo": "2015-03-25T12:29:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 117410,
+
+    "filename": "ICLISTENHF1288_20150325T122423.000Z-spect.mat",
+
+    "modifyDate": "2015-10-14T18:04:12.000Z",
+
+    "uncompressedFileSize": 117408
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-14T18:04:11.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:24:23.000Z",
+
+    "dateTo": "2015-03-25T12:29:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 250526,
+
+    "filename": "ICLISTENHF1288_20150325T122423.000Z-spect.png",
+
+    "modifyDate": "2015-10-14T18:04:11.000Z",
+
+    "uncompressedFileSize": 250526
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-12T01:22:18.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 8,
+
+    "dateFrom": "2015-03-25T12:24:23.000Z",
+
+    "dateTo": "2015-03-25T12:29:22.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 38237413,
+
+    "filename": "ICLISTENHF1288_20150325T122423.000Z.wav",
+
+    "modifyDate": "2015-10-14T16:27:55.000Z",
+
+    "uncompressedFileSize": 57600044
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:19.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:28:16.000Z",
+
+    "dateTo": "2015-03-25T12:33:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 32900,
+
+    "filename": "ICLISTENHF1288_20150325T122816.500Z-small.png",
+
+    "modifyDate": "2015-03-25T22:36:19.000Z",
+
+    "uncompressedFileSize": 32900
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:13.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:28:16.000Z",
+
+    "dateTo": "2015-03-25T12:33:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 8822,
+
+    "filename": "ICLISTENHF1288_20150325T122816.500Z-thumb.png",
+
+    "modifyDate": "2015-03-25T22:36:13.000Z",
+
+    "uncompressedFileSize": 8822
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:06:44.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 104,
+
+    "dateFrom": "2015-03-25T12:28:16.000Z",
+
+    "dateTo": "2015-03-25T12:33:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 281878,
+
+    "filename": "ICLISTENHF1288_20150325T122816.500Z.fft",
+
+    "modifyDate": "2015-03-25T22:30:50.000Z",
+
+    "uncompressedFileSize": 1569430
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:19.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:28:16.000Z",
+
+    "dateTo": "2015-03-25T12:33:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 167969,
+
+    "filename": "ICLISTENHF1288_20150325T122816.500Z.png",
+
+    "modifyDate": "2015-03-25T22:36:19.000Z",
+
+    "uncompressedFileSize": 167969
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T02:25:35.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 46,
+
+    "dateFrom": "2015-03-25T12:29:23.000Z",
+
+    "dateTo": "2015-03-25T12:34:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2400868,
+
+    "filename": "ICLISTENHF1288_20150325T122923.000Z-audio.mp3",
+
+    "modifyDate": "2015-10-22T02:25:35.000Z",
+
+    "uncompressedFileSize": 2400868
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T02:25:35.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:29:23.000Z",
+
+    "dateTo": "2015-03-25T12:34:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 33252,
+
+    "filename": "ICLISTENHF1288_20150325T122923.000Z-spect-small.png",
+
+    "modifyDate": "2015-10-22T02:25:36.000Z",
+
+    "uncompressedFileSize": 33252
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T02:25:36.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:29:23.000Z",
+
+    "dateTo": "2015-03-25T12:34:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 8791,
+
+    "filename": "ICLISTENHF1288_20150325T122923.000Z-spect-thumb.png",
+
+    "modifyDate": "2015-10-22T02:25:36.000Z",
+
+    "uncompressedFileSize": 8791
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T02:25:36.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 175,
+
+    "dateFrom": "2015-03-25T12:29:23.000Z",
+
+    "dateTo": "2015-03-25T12:34:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 117273,
+
+    "filename": "ICLISTENHF1288_20150325T122923.000Z-spect.mat",
+
+    "modifyDate": "2015-10-22T02:25:36.000Z",
+
+    "uncompressedFileSize": 117247
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T02:25:35.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:29:23.000Z",
+
+    "dateTo": "2015-03-25T12:34:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 224447,
+
+    "filename": "ICLISTENHF1288_20150325T122923.000Z-spect.png",
+
+    "modifyDate": "2015-10-22T02:25:35.000Z",
+
+    "uncompressedFileSize": 224447
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-12T01:21:55.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 8,
+
+    "dateFrom": "2015-03-25T12:29:23.000Z",
+
+    "dateTo": "2015-03-25T12:34:22.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 38261702,
+
+    "filename": "ICLISTENHF1288_20150325T122923.000Z.wav",
+
+    "modifyDate": "2015-10-22T02:24:26.000Z",
+
+    "uncompressedFileSize": 57600044
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:15.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:33:16.000Z",
+
+    "dateTo": "2015-03-25T12:38:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 32990,
+
+    "filename": "ICLISTENHF1288_20150325T123316.500Z-small.png",
+
+    "modifyDate": "2015-03-25T22:36:15.000Z",
+
+    "uncompressedFileSize": 32990
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:15.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:33:16.000Z",
+
+    "dateTo": "2015-03-25T12:38:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 8870,
+
+    "filename": "ICLISTENHF1288_20150325T123316.500Z-thumb.png",
+
+    "modifyDate": "2015-03-25T22:36:15.000Z",
+
+    "uncompressedFileSize": 8870
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:06:44.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 104,
+
+    "dateFrom": "2015-03-25T12:33:16.000Z",
+
+    "dateTo": "2015-03-25T12:38:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 281465,
+
+    "filename": "ICLISTENHF1288_20150325T123316.500Z.fft",
+
+    "modifyDate": "2015-03-25T22:30:56.000Z",
+
+    "uncompressedFileSize": 1569796
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:15.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:33:16.000Z",
+
+    "dateTo": "2015-03-25T12:38:16.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 170917,
+
+    "filename": "ICLISTENHF1288_20150325T123316.500Z.png",
+
+    "modifyDate": "2015-03-25T22:36:15.000Z",
+
+    "uncompressedFileSize": 170917
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:50:48.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 46,
+
+    "dateFrom": "2015-03-25T12:34:23.000Z",
+
+    "dateTo": "2015-03-25T12:39:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2400868,
+
+    "filename": "ICLISTENHF1288_20150325T123423.000Z-audio.mp3",
+
+    "modifyDate": "2015-10-22T03:50:48.000Z",
+
+    "uncompressedFileSize": 2400868
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:50:18.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:34:23.000Z",
+
+    "dateTo": "2015-03-25T12:39:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 34391,
+
+    "filename": "ICLISTENHF1288_20150325T123423.000Z-spect-small.png",
+
+    "modifyDate": "2015-10-22T03:50:18.000Z",
+
+    "uncompressedFileSize": 34391
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:50:18.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:34:23.000Z",
+
+    "dateTo": "2015-03-25T12:39:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 8830,
+
+    "filename": "ICLISTENHF1288_20150325T123423.000Z-spect-thumb.png",
+
+    "modifyDate": "2015-10-22T03:50:18.000Z",
+
+    "uncompressedFileSize": 8830
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:50:18.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 175,
+
+    "dateFrom": "2015-03-25T12:34:23.000Z",
+
+    "dateTo": "2015-03-25T12:39:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 117325,
+
+    "filename": "ICLISTENHF1288_20150325T123423.000Z-spect.mat",
+
+    "modifyDate": "2015-10-22T03:50:18.000Z",
+
+    "uncompressedFileSize": 117397
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:50:18.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:34:23.000Z",
+
+    "dateTo": "2015-03-25T12:39:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 235486,
+
+    "filename": "ICLISTENHF1288_20150325T123423.000Z-spect.png",
+
+    "modifyDate": "2015-10-22T03:50:18.000Z",
+
+    "uncompressedFileSize": 235486
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-12T01:22:28.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 8,
+
+    "dateFrom": "2015-03-25T12:34:23.000Z",
+
+    "dateTo": "2015-03-25T12:39:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 38359865,
+
+    "filename": "ICLISTENHF1288_20150325T123423.000Z.wav",
+
+    "modifyDate": "2015-10-22T03:48:05.000Z",
+
+    "uncompressedFileSize": 57600044
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:15.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:38:17.000Z",
+
+    "dateTo": "2015-03-25T12:43:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 32681,
+
+    "filename": "ICLISTENHF1288_20150325T123817.500Z-small.png",
+
+    "modifyDate": "2015-03-25T22:36:15.000Z",
+
+    "uncompressedFileSize": 32681
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:15.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:38:17.000Z",
+
+    "dateTo": "2015-03-25T12:43:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 8685,
+
+    "filename": "ICLISTENHF1288_20150325T123817.500Z-thumb.png",
+
+    "modifyDate": "2015-03-25T22:36:15.000Z",
+
+    "uncompressedFileSize": 8685
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:06:44.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 104,
+
+    "dateFrom": "2015-03-25T12:38:17.000Z",
+
+    "dateTo": "2015-03-25T12:43:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 279280,
+
+    "filename": "ICLISTENHF1288_20150325T123817.500Z.fft",
+
+    "modifyDate": "2015-03-25T22:31:01.000Z",
+
+    "uncompressedFileSize": 1569102
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:15.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:38:17.000Z",
+
+    "dateTo": "2015-03-25T12:43:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 164724,
+
+    "filename": "ICLISTENHF1288_20150325T123817.500Z.png",
+
+    "modifyDate": "2015-03-25T22:36:15.000Z",
+
+    "uncompressedFileSize": 164724
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:51:03.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 46,
+
+    "dateFrom": "2015-03-25T12:39:24.000Z",
+
+    "dateTo": "2015-03-25T12:44:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2400868,
+
+    "filename": "ICLISTENHF1288_20150325T123924.000Z-audio.mp3",
+
+    "modifyDate": "2015-10-22T03:51:03.000Z",
+
+    "uncompressedFileSize": 2400868
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:51:03.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:39:24.000Z",
+
+    "dateTo": "2015-03-25T12:44:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 33135,
+
+    "filename": "ICLISTENHF1288_20150325T123924.000Z-spect-small.png",
+
+    "modifyDate": "2015-10-22T03:51:03.000Z",
+
+    "uncompressedFileSize": 33135
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:51:03.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:39:24.000Z",
+
+    "dateTo": "2015-03-25T12:44:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 8807,
+
+    "filename": "ICLISTENHF1288_20150325T123924.000Z-spect-thumb.png",
+
+    "modifyDate": "2015-10-22T03:51:03.000Z",
+
+    "uncompressedFileSize": 8807
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:51:03.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 175,
+
+    "dateFrom": "2015-03-25T12:39:24.000Z",
+
+    "dateTo": "2015-03-25T12:44:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 117294,
+
+    "filename": "ICLISTENHF1288_20150325T123924.000Z-spect.mat",
+
+    "modifyDate": "2015-10-22T03:51:03.000Z",
+
+    "uncompressedFileSize": 117264
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-22T03:51:03.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:39:24.000Z",
+
+    "dateTo": "2015-03-25T12:44:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 226633,
+
+    "filename": "ICLISTENHF1288_20150325T123924.000Z-spect.png",
+
+    "modifyDate": "2015-10-22T03:51:03.000Z",
+
+    "uncompressedFileSize": 226633
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-12T01:22:34.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 8,
+
+    "dateFrom": "2015-03-25T12:39:24.000Z",
+
+    "dateTo": "2015-03-25T12:44:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 38398460,
+
+    "filename": "ICLISTENHF1288_20150325T123924.000Z.wav",
+
+    "modifyDate": "2015-10-22T03:48:40.000Z",
+
+    "uncompressedFileSize": 57600044
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:18.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:43:17.000Z",
+
+    "dateTo": "2015-03-25T12:48:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 32238,
+
+    "filename": "ICLISTENHF1288_20150325T124317.500Z-small.png",
+
+    "modifyDate": "2015-03-25T22:36:18.000Z",
+
+    "uncompressedFileSize": 32238
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:18.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:43:17.000Z",
+
+    "dateTo": "2015-03-25T12:48:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 8808,
+
+    "filename": "ICLISTENHF1288_20150325T124317.500Z-thumb.png",
+
+    "modifyDate": "2015-03-25T22:36:18.000Z",
+
+    "uncompressedFileSize": 8808
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:06:44.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 104,
+
+    "dateFrom": "2015-03-25T12:43:17.000Z",
+
+    "dateTo": "2015-03-25T12:48:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 278533,
+
+    "filename": "ICLISTENHF1288_20150325T124317.500Z.fft",
+
+    "modifyDate": "2015-03-25T22:31:07.000Z",
+
+    "uncompressedFileSize": 1568510
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:36:18.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:43:17.000Z",
+
+    "dateTo": "2015-03-25T12:48:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 162166,
+
+    "filename": "ICLISTENHF1288_20150325T124317.500Z.png",
+
+    "modifyDate": "2015-03-25T22:36:18.000Z",
+
+    "uncompressedFileSize": 162166
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T02:30:51.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 46,
+
+    "dateFrom": "2015-03-25T12:44:24.000Z",
+
+    "dateTo": "2015-03-25T12:49:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2400868,
+
+    "filename": "ICLISTENHF1288_20150325T124424.000Z-audio.mp3",
+
+    "modifyDate": "2015-10-20T02:30:51.000Z",
+
+    "uncompressedFileSize": 2400868
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T02:30:51.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:44:24.000Z",
+
+    "dateTo": "2015-03-25T12:49:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 38609,
+
+    "filename": "ICLISTENHF1288_20150325T124424.000Z-spect-small.png",
+
+    "modifyDate": "2015-10-20T02:30:51.000Z",
+
+    "uncompressedFileSize": 38609
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T02:30:51.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:44:24.000Z",
+
+    "dateTo": "2015-03-25T12:49:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 10443,
+
+    "filename": "ICLISTENHF1288_20150325T124424.000Z-spect-thumb.png",
+
+    "modifyDate": "2015-10-20T02:30:51.000Z",
+
+    "uncompressedFileSize": 10443
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T02:30:51.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 175,
+
+    "dateFrom": "2015-03-25T12:44:24.000Z",
+
+    "dateTo": "2015-03-25T12:49:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 117145,
+
+    "filename": "ICLISTENHF1288_20150325T124424.000Z-spect.mat",
+
+    "modifyDate": "2015-10-20T02:30:51.000Z",
+
+    "uncompressedFileSize": 117116
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T02:30:51.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:44:24.000Z",
+
+    "dateTo": "2015-03-25T12:49:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 303446,
+
+    "filename": "ICLISTENHF1288_20150325T124424.000Z-spect.png",
+
+    "modifyDate": "2015-10-20T02:30:51.000Z",
+
+    "uncompressedFileSize": 303446
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-12T01:22:40.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 8,
+
+    "dateFrom": "2015-03-25T12:44:24.000Z",
+
+    "dateTo": "2015-03-25T12:49:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 38984028,
+
+    "filename": "ICLISTENHF1288_20150325T124424.000Z.wav",
+
+    "modifyDate": "2015-10-20T02:28:59.000Z",
+
+    "uncompressedFileSize": 57600044
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:25.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:48:17.000Z",
+
+    "dateTo": "2015-03-25T12:53:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 44235,
+
+    "filename": "ICLISTENHF1288_20150325T124817.500Z-small.png",
+
+    "modifyDate": "2015-03-25T22:35:26.000Z",
+
+    "uncompressedFileSize": 44235
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:26.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:48:17.000Z",
+
+    "dateTo": "2015-03-25T12:53:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 11798,
+
+    "filename": "ICLISTENHF1288_20150325T124817.500Z-thumb.png",
+
+    "modifyDate": "2015-03-25T22:35:26.000Z",
+
+    "uncompressedFileSize": 11798
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:06:44.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 104,
+
+    "dateFrom": "2015-03-25T12:48:17.000Z",
+
+    "dateTo": "2015-03-25T12:53:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 300508,
+
+    "filename": "ICLISTENHF1288_20150325T124817.500Z.fft",
+
+    "modifyDate": "2015-03-25T22:31:14.000Z",
+
+    "uncompressedFileSize": 1627690
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:25.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:48:17.000Z",
+
+    "dateTo": "2015-03-25T12:53:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 222834,
+
+    "filename": "ICLISTENHF1288_20150325T124817.500Z.png",
+
+    "modifyDate": "2015-03-25T22:35:25.000Z",
+
+    "uncompressedFileSize": 222834
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T02:30:51.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 46,
+
+    "dateFrom": "2015-03-25T12:49:24.000Z",
+
+    "dateTo": "2015-03-25T12:54:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2400868,
+
+    "filename": "ICLISTENHF1288_20150325T124924.000Z-audio.mp3",
+
+    "modifyDate": "2015-10-20T02:30:51.000Z",
+
+    "uncompressedFileSize": 2400868
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T02:30:51.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:49:24.000Z",
+
+    "dateTo": "2015-03-25T12:54:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 52327,
+
+    "filename": "ICLISTENHF1288_20150325T124924.000Z-spect-small.png",
+
+    "modifyDate": "2015-10-20T02:30:51.000Z",
+
+    "uncompressedFileSize": 52327
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T02:30:10.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:49:24.000Z",
+
+    "dateTo": "2015-03-25T12:54:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 13346,
+
+    "filename": "ICLISTENHF1288_20150325T124924.000Z-spect-thumb.png",
+
+    "modifyDate": "2015-10-20T02:30:10.000Z",
+
+    "uncompressedFileSize": 13346
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T02:30:10.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 175,
+
+    "dateFrom": "2015-03-25T12:49:24.000Z",
+
+    "dateTo": "2015-03-25T12:54:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 117022,
+
+    "filename": "ICLISTENHF1288_20150325T124924.000Z-spect.mat",
+
+    "modifyDate": "2015-10-20T02:30:10.000Z",
+
+    "uncompressedFileSize": 117019
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T02:30:51.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:49:24.000Z",
+
+    "dateTo": "2015-03-25T12:54:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 413878,
+
+    "filename": "ICLISTENHF1288_20150325T124924.000Z-spect.png",
+
+    "modifyDate": "2015-10-20T02:30:51.000Z",
+
+    "uncompressedFileSize": 413878
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-12T01:22:47.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 8,
+
+    "dateFrom": "2015-03-25T12:49:24.000Z",
+
+    "dateTo": "2015-03-25T12:54:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 39489450,
+
+    "filename": "ICLISTENHF1288_20150325T124924.000Z.wav",
+
+    "modifyDate": "2015-10-20T02:29:45.000Z",
+
+    "uncompressedFileSize": 57600044
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:30.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:53:17.000Z",
+
+    "dateTo": "2015-03-25T12:58:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 36502,
+
+    "filename": "ICLISTENHF1288_20150325T125317.500Z-small.png",
+
+    "modifyDate": "2015-03-25T22:35:30.000Z",
+
+    "uncompressedFileSize": 36502
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:30.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:53:17.000Z",
+
+    "dateTo": "2015-03-25T12:58:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 10151,
+
+    "filename": "ICLISTENHF1288_20150325T125317.500Z-thumb.png",
+
+    "modifyDate": "2015-03-25T22:35:30.000Z",
+
+    "uncompressedFileSize": 10151
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:06:45.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 104,
+
+    "dateFrom": "2015-03-25T12:53:17.000Z",
+
+    "dateTo": "2015-03-25T12:58:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 283753,
+
+    "filename": "ICLISTENHF1288_20150325T125317.500Z.fft",
+
+    "modifyDate": "2015-03-25T22:31:19.000Z",
+
+    "uncompressedFileSize": 1584449
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:30.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:53:17.000Z",
+
+    "dateTo": "2015-03-25T12:58:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 183886,
+
+    "filename": "ICLISTENHF1288_20150325T125317.500Z.png",
+
+    "modifyDate": "2015-03-25T22:35:30.000Z",
+
+    "uncompressedFileSize": 183886
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-14T17:48:55.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 46,
+
+    "dateFrom": "2015-03-25T12:54:24.000Z",
+
+    "dateTo": "2015-03-25T12:59:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2400868,
+
+    "filename": "ICLISTENHF1288_20150325T125424.000Z-audio.mp3",
+
+    "modifyDate": "2015-10-14T17:48:55.000Z",
+
+    "uncompressedFileSize": 2400868
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-14T17:48:55.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:54:24.000Z",
+
+    "dateTo": "2015-03-25T12:59:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 42807,
+
+    "filename": "ICLISTENHF1288_20150325T125424.000Z-spect-small.png",
+
+    "modifyDate": "2015-10-14T17:48:56.000Z",
+
+    "uncompressedFileSize": 42807
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-14T17:48:56.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:54:24.000Z",
+
+    "dateTo": "2015-03-25T12:59:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 10906,
+
+    "filename": "ICLISTENHF1288_20150325T125424.000Z-spect-thumb.png",
+
+    "modifyDate": "2015-10-14T17:48:56.000Z",
+
+    "uncompressedFileSize": 10906
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-14T18:04:31.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 175,
+
+    "dateFrom": "2015-03-25T12:54:24.000Z",
+
+    "dateTo": "2015-03-25T12:59:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 117011,
+
+    "filename": "ICLISTENHF1288_20150325T125424.000Z-spect.mat",
+
+    "modifyDate": "2015-10-14T18:04:31.000Z",
+
+    "uncompressedFileSize": 116997
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-14T17:48:55.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:54:24.000Z",
+
+    "dateTo": "2015-03-25T12:59:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 317435,
+
+    "filename": "ICLISTENHF1288_20150325T125424.000Z-spect.png",
+
+    "modifyDate": "2015-10-14T17:48:55.000Z",
+
+    "uncompressedFileSize": 317435
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-12T01:23:15.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 8,
+
+    "dateFrom": "2015-03-25T12:54:24.000Z",
+
+    "dateTo": "2015-03-25T12:59:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 39367237,
+
+    "filename": "ICLISTENHF1288_20150325T125424.000Z.wav",
+
+    "modifyDate": "2015-10-14T16:28:19.000Z",
+
+    "uncompressedFileSize": 57600044
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:30.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:58:17.000Z",
+
+    "dateTo": "2015-03-25T13:03:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 33056,
+
+    "filename": "ICLISTENHF1288_20150325T125817.500Z-small.png",
+
+    "modifyDate": "2015-03-25T22:35:30.000Z",
+
+    "uncompressedFileSize": 33056
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:30.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:58:17.000Z",
+
+    "dateTo": "2015-03-25T13:03:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 9284,
+
+    "filename": "ICLISTENHF1288_20150325T125817.500Z-thumb.png",
+
+    "modifyDate": "2015-03-25T22:35:30.000Z",
+
+    "uncompressedFileSize": 9284
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:06:45.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 104,
+
+    "dateFrom": "2015-03-25T12:58:17.000Z",
+
+    "dateTo": "2015-03-25T13:03:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 279956,
+
+    "filename": "ICLISTENHF1288_20150325T125817.500Z.fft",
+
+    "modifyDate": "2015-03-25T22:31:25.000Z",
+
+    "uncompressedFileSize": 1569721
+
+  },
+
+  {
+
+    "archivedDate": "2015-03-25T22:35:30.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:58:17.000Z",
+
+    "dateTo": "2015-03-25T13:03:17.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 168771,
+
+    "filename": "ICLISTENHF1288_20150325T125817.500Z.png",
+
+    "modifyDate": "2015-03-25T22:35:30.000Z",
+
+    "uncompressedFileSize": 168771
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T19:45:27.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 46,
+
+    "dateFrom": "2015-03-25T12:59:24.000Z",
+
+    "dateTo": "2015-03-25T13:04:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 2400868,
+
+    "filename": "ICLISTENHF1288_20150325T125924.000Z-audio.mp3",
+
+    "modifyDate": "2015-10-20T19:45:27.000Z",
+
+    "uncompressedFileSize": 2400868
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T19:45:27.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:59:24.000Z",
+
+    "dateTo": "2015-03-25T13:04:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 30758,
+
+    "filename": "ICLISTENHF1288_20150325T125924.000Z-spect-small.png",
+
+    "modifyDate": "2015-10-20T19:45:27.000Z",
+
+    "uncompressedFileSize": 30758
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T19:45:27.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:59:24.000Z",
+
+    "dateTo": "2015-03-25T13:04:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 8453,
+
+    "filename": "ICLISTENHF1288_20150325T125924.000Z-spect-thumb.png",
+
+    "modifyDate": "2015-10-20T19:45:27.000Z",
+
+    "uncompressedFileSize": 8453
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T19:45:27.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 175,
+
+    "dateFrom": "2015-03-25T12:59:24.000Z",
+
+    "dateTo": "2015-03-25T13:04:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 117169,
+
+    "filename": "ICLISTENHF1288_20150325T125924.000Z-spect.mat",
+
+    "modifyDate": "2015-10-20T19:45:28.000Z",
+
+    "uncompressedFileSize": 117279
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-20T19:45:27.000Z",
+
+    "compression": null,
+
+    "dataProductFormatId": 53,
+
+    "dateFrom": "2015-03-25T12:59:24.000Z",
+
+    "dateTo": "2015-03-25T13:04:24.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 230763,
+
+    "filename": "ICLISTENHF1288_20150325T125924.000Z-spect.png",
+
+    "modifyDate": "2015-10-20T19:45:27.000Z",
+
+    "uncompressedFileSize": 230763
+
+  },
+
+  {
+
+    "archivedDate": "2015-10-12T01:23:21.000Z",
+
+    "compression": "gz",
+
+    "dataProductFormatId": 8,
+
+    "dateFrom": "2015-03-25T12:59:24.000Z",
+
+    "dateTo": "2015-03-25T13:04:23.000Z",
+
+    "deviceId": 23330,
+
+    "fileSize": 38673489,
+
+    "filename": "ICLISTENHF1288_20150325T125924.000Z.wav",
+
+    "modifyDate": "2015-10-20T19:42:26.000Z",
+
+    "uncompressedFileSize": 57600044
+
+  }
+
+]
