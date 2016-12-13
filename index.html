@@ -1,74 +1,185 @@
+<!-- http://ionden.com/a/plugins/ion.rangeSlider/demo.html -->
+
 <!DOCTYPE html>
 
 <html>
   <head>
+     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
      <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
      <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css"/>     
      <link rel="stylesheet" type="text/css" href="include/datetimepicker-master/jquery.datetimepicker.css"/>
      <link rel="stylesheet" href="css/main.css">
+     
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    
+    <!-- File Input -->    
+    <link rel="stylesheet" href="include/fileinput/fileinput.css">      
+    
+    <!-- Slider -->  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.5.3/css/bootstrap-slider.min.css">          
+    
   </head>
   <body>
-     
-    Estações: <select id="station" name="station">
-      <option value="CBYIP">CBYIP</option>
-      <option value="DIIP">DIIP</option>
-      <option value="KVIP">KVIP</option>
-      <option value="BACAX">BACAX</option>
-      <option value="NCBC">NCBC</option>
-      <option value="BACUS">BACUS</option>
-      <option value="BACUS.H1">BACUS.H1</option>
-      <option value="BACUS.H2">BACUS.H2</option>
-      <option value="BACVP">BACVP</option>
-      <option value="NC27.H1">NC27.H1</option>
-      <option value="NC27.H2">NC27.H2</option>
-      <option value="NC89.H1">NC89.H1</option>
-      <option value="NC89.H2">NC89.H2</option>
-      <option value="CQS64.H2">CQS64.H2</option>
-      <option value="CQS64.H1">CQS64.H1</option>
-      <option value="KEMO">KEMO</option>
-      <option value="FGPD">FGPD</option>
-      <option value="CRIP">CRIP</option>
-      <option value="PHYD">PHYD</option>
-      <option value="PVIP">PVIP</option>
-      <option value="SGC.H1">SGC.H1</option>
-      <option value="SCVIP">SCVIP</option>
-      <option value="LSHA.H1">LSHA.H1</option>
-      <option value="LSHA.H2">LSHA.H2</option>
-      <option value="LSHA.H3">LSHA.H3</option>
-      <option value="LSHA.H4">LSHA.H4</option>
-      <option value="LSHA.H5">LSHA.H5</option>
-      <option value="SEDDL">SEDDL</option>
-      <option value="SGE.H1">SGE.H1</option>
-      <option value="SGE.H2">SGE.H2</option>
-      <option value="ECHO1.H1">ECHO1.H1</option>
-      <option value="ECHO1.H2">ECHO1.H2</option>
-      <option value="ECHO1.H3">ECHO1.H3</option>
-      <option value="ECHO1.H4">ECHO1.H4</option>
-      <option value="ECHO2.H1">ECHO2.H1</option>
-      <option value="ECHO2.H2">ECHO2.H2</option>
-      <option value="ECHO2.H3">ECHO2.H3</option>
-      <option value="ECHO2.H4">ECHO2.H4</option>
-      <option value="SEHA.H1">SEHA.H1</option>
-      <option value="SEHA.H2">SEHA.H2</option>
-      <option value="SEHA.H3">SEHA.H3</option>
-      <option value="SEHA.H4">SEHA.H4</option>
-      <option value="SEHA.H5">SEHA.H5</option>
-      <option value="SEHDW">SEHDW</option>
-    </select>     
-     
-    <br > 
-    <br >
     
-    De: <input class="dates" type="text" id="d0" /> até  <input class="dates"  type="text" id="dn" /> 
-    
-    <input type="button" id="load" name="load" value="Carregar" />   
-    <span id="msg"></span>
-    
+<!--     Baixar lista de estações: <input id = "check_download_station_list" type="checkbox" name="your-group" value="0" /> <br /> -->
+
+<br />
+
+   <form>
+     <fieldset id="form_fields">
+      <div class="row">
+        <div class="col-xs-2">
+          <div class="form-group">
+            <label>Buscar lista de arquivos:</label>
+            <label class="checkbox-inline"><input id="check_download_file_list" type="checkbox" /><label>&nbsp;</label></label>
+          </div>
+        </div>
+        <div class="col-xs-4">
+          <div class="form-group">
+            <input id="file_list" type="file" />
+          </div>
+        </div>        
+      </div>
+      <div class="row">
+        <div class="col-xs-2">
+          <div class="form-group">
+            <label>Baixar imagens:</label>
+            <label class="checkbox-inline"><input id="check_download_image" type="checkbox" /><label>&nbsp;</label></label>
+          </div>
+        </div>
+        <div class="col-xs-4">
+          <div class="form-group">
+            <input  class="form-control" id = "image_directory" type="text" placeholder="ou Carregar do diretório" />
+          </div>
+        </div>        
+      </div>
+      <div class="row">
+        <div class="col-xs-2">
+          <div class="form-group">
+            <label>Baixar áudios:</label>
+            <label class="checkbox-inline"><input id="check_download_audio" type="checkbox" /><label>&nbsp;</label></label>
+          </div>
+        </div>
+      </div> 
+
+      <div class="row">
+        <div class="form-group">
+            <label for="station" class="col-sm-2 control-label">Estação:</label>
+            <div class="col-sm-4">
+              <select id="station" class="form-control selectpicker" data-style="btn-info" >        
+                <option value="CBYIP">CBYIP</option> <span hidden>Arctic/Cambridge Bay/Underwater Network</span>
+                <option value="DIIP">DIIP</option>  <span hidden>Pacific/Chatham Sound/Digby Island Underwater Network</span>
+                <option value="KVIP">KVIP</option>  <span hidden>Pacific/Douglas Channel/Kitamaat Village Underwater Network</span>
+                <option value="BACAX">BACAX</option> <span hidden>Pacific/Northeast Pacific Ocean/Barkley Canyon/Axis (POD 1)</span>
+                <option value="NCBC">NCBC</option>   <span hidden>Pacific/Northeast Pacific Ocean/Barkley Canyon/Upper Slope</span>
+                <option value="BACUS">BACUS</option> <span hidden>Pacific/Northeast Pacific Ocean/Barkley Canyon/Upper Slope South (POD 2)</span>
+                <option value="BACUS.H1">BACUS.H1</option> <span hidden>Pacific/Northeast Pacific Ocean/Barkley Canyon/Upper Slope South (POD 2)/Hydrophone High Frequency 2.8 mab</span>
+                <option value="BACUS.H2">BACUS.H2</option> <span hidden>Pacific/Northeast Pacific Ocean/Barkley Canyon/Upper Slope South (POD 2)/Hydrophone Low Frequency 1.3 mab</span>
+                <option value="BACVP">BACVP</option> <span hidden>Pacific/Northeast Pacific Ocean/Barkley Canyon/Upper Slope Vertical Profiler</span>
+                <option value="NC27.H1">NC27.H1</option> <span hidden>Pacific/Northeast Pacific Ocean/Cascadia Basin/ODP 1026/Hydrophone Broadband</span>
+                <option value="NC27.H2">NC27.H2</option> <span hidden>Pacific/Northeast Pacific Ocean/Cascadia Basin/ODP 1026/Hydrophone Low Frequency</span>
+                <option value="NC89.H1">NC89.H1</option> <span hidden>Pacific/Northeast Pacific Ocean/Clayoquot Slope/Bullseye/Hydrophone High Frequency</span>
+                <option value="NC89.H2">NC89.H2</option> <span hidden>Pacific/Northeast Pacific Ocean/Clayoquot Slope/Bullseye/Hydrophone Low Frequency</span>
+                <option value="CQS64.H2">CQS64.H2</option> <span hidden>Pacific/Northeast Pacific Ocean/Clayoquot Slope/ODP 1364A/Hydrophone High Frequency 1.3 mab</span>
+                <option value="CQS64.H1">CQS64.H1</option> <span hidden>Pacific/Northeast Pacific Ocean/Clayoquot Slope/ODP 1364A/Hydrophone High Frequency 2.8 mab</span>
+                <option value="KEMO">KEMO</option> <span hidden>Pacific/Northeast Pacific Ocean/Endeavour/Mothra</span>
+                <option value="FGPD">FGPD</option> <span hidden>Pacific/Northeast Pacific Ocean/Folger Passage/Folger Deep</span>
+                <option value="CRIP">CRIP</option> <span hidden>Pacific/Salish Sea/Discovery Passage/Campbell River Underwater Network</span>
+                <option value="PHYD">PHYD</option> <span hidden>Pacific/Salish Sea/Saanich Inlet/Patricia Bay/Hydrophone</span>
+                <option value="PVIP">PVIP</option> <span hidden>Pacific/Salish Sea/Saanich Inlet/Patricia Bay/Saanich Inlet VENUS Instrument Platform</span>
+                <option value="SGC.H1">SGC.H1</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/Central/Hydrophone IOS Array</span>
+                <option value="SCVIP">SCVIP</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/Central/Strait of Georgia VENUS Instrument Platform</span>
+                <option value="LSHA.H1">LSHA.H1</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/Delta/Lower Slope/JASCO Hydrophone Array/JASCO Hydrophone 1</span>
+                <option value="LSHA.H2">LSHA.H2</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/Delta/Lower Slope/JASCO Hydrophone Array/JASCO Hydrophone 2</span>
+                <option value="LSHA.H3">LSHA.H3</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/Delta/Lower Slope/JASCO Hydrophone Array/JASCO Hydrophone 3</span>
+                <option value="LSHA.H4">LSHA.H4</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/Delta/Lower Slope/JASCO Hydrophone Array/JASCO Hydrophone 4</span>
+                <option value="LSHA.H5">LSHA.H5</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/Delta/Lower Slope/JASCO Hydrophone Array/Ocean Sonics Hydrophone Low Frequency</span>
+                <option value="SEDDL">SEDDL</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/Delta Dynamics Laboratory</span>
+                <option value="SGE.H1">SGE.H1</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/Hydrophone IOS Array</span>
+                <option value="SGE.H2">SGE.H2</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/Hydrophone Low Frequency</span>
+                <option value="SEHA.H1">SEHA.H1</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/JASCO Hydrophone Array/JASCO Hydrophone 1</span>
+                <option value="SEHA.H2">SEHA.H2</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/JASCO Hydrophone Array/JASCO Hydrophone 2</span>
+                <option value="SEHA.H3">SEHA.H3</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/JASCO Hydrophone Array/JASCO Hydrophone 3</span>
+                <option value="SEHA.H4">SEHA.H4</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/JASCO Hydrophone Array/JASCO Hydrophone 4</span>
+                <option value="SEHA.H5">SEHA.H5</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/JASCO Hydrophone Array/Ocean Sonics Hydrophone Low Frequency</span>
+                <option value="SEHDW">SEHDW</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/Simon Fraser University Forensics</span>
+                <option value="ECHO1.H1">ECHO2.H1</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/Underwater Listening Station - North/JASCO Hydrophone 1</span>
+                <option value="ECHO1.H2">ECHO2.H2</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/Underwater Listening Station - North/JASCO Hydrophone 2</span>
+                <option value="ECHO1.H3">ECHO2.H3</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/Underwater Listening Station - North/JASCO Hydrophone 3</span>
+                <option value="ECHO1.H4">ECHO2.H4</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/Underwater Listening Station - North/JASCO Hydrophone 4</span>
+                <option value="ECHO2.H1">ECHO1.H1</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/Underwater Listening Station - South/JASCO Hydrophone 1</span>
+                <option value="ECHO2.H2">ECHO1.H2</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/Underwater Listening Station - South/JASCO Hydrophone 2</span>
+                <option value="ECHO2.H3">ECHO1.H3</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/Underwater Listening Station - South/JASCO Hydrophone 3</span>
+                <option value="ECHO2.H4">ECHO1.H4</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/Underwater Listening Station - South/JASCO Hydrophone 4</span>          
+              </select>
+            </div>
+            <div class="col-sm-1">
+              <input class="btn btn-primary" type="button" id="listing_station" name="listing_station" value="Listar Estações" />    
+            </div>
+            <div class="col-sm-2">
+              <ul class="nav nav-pills">
+                <li role="presentation" ><a href="http://dmas.uvic.ca/SearchHydrophoneData" target="_blank">Search Hydrophone Data</a></li>
+              </ul>
+            </div>
+        </div>
+        
+      </div>  
+
+      <br />      
+      
+      <div class="row">
+        <div class="col-sm-3">        
+          <div class="form-group">
+            <label for="station" class="col-sm-2 control-label" style="padding: 0px">Limiar:</label>
+            <div class="col-sm-2">        
+              <input id="color_value" data-slider-id='color_valueSlider' type="text" data-slider-min="40" data-slider-max="140" data-slider-step="2" data-slider-value="40"/>
+            </div>
+          </div>
+        </div> 
+
+        <div class="col-sm-8">                
+          <div class="form-group">
+            <label for="station" class="col-sm-3 control-label" style="padding: 0px">Filtrar arquivos com mais de</label>
+            <div class="col-sm-4">        
+              <input id="percent_value" data-slider-id='percent_valueSlider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="1" data-slider-value="0"/>
+            </div>
+          </div>  
+        </div>           
+        
+      </div>
+      
+      <br />      
+      
+      <div class="row">
+        <div class="col-xs-2">
+          <div class="form-group">
+            <label class="col-sm-2 control-label">De:</label>
+            <input class="dates form-control" type="text" id="d0" />
+          </div>
+        </div>
+        <div class="col-xs-2">
+          <div class="form-group">
+            <label>até</label>
+            <input class="dates form-control"  type="text" id="dn" />
+          </div>
+        </div>
+      </div>  
+      
+      <input class="btn btn-primary" type="button" id="load" name="load" value="Carregar" />
+      <input class="btn btn-primary" type="button" id="list_file" name="list_file" value="Listar arquivos" /> <span id="msg"></span>   
+      
+     </fieldset>
+    </form>
+
+    <br />
    
     <img id="loading" src="img/loading.gif" />
     
     <br >
-    <br >
+    <br >  
     
     <div id="grid_files"> </div>     
   
@@ -77,5 +188,15 @@
     <script src="include/datetimepicker-master/build/jquery.datetimepicker.full.js" type="application/javascript"></script>
     <script src="include/jquery.loadJSON.js" type="application/javascript"></script>
     <script src="include/main.js" type="application/javascript"></script>
+    
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>         
+    
+    <!-- File Input -->  
+    <script src="include/fileinput/fileinput.js"></script>   
+    
+    <!-- Slider -->  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/9.5.3/bootstrap-slider.min.js"></script>   
+    
   </body>
 </html>

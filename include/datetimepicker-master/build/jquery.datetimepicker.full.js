@@ -987,7 +987,7 @@ var DateFormatter;
 					"Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"
 				],
 				dayOfWeekShort: [
-					"Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "Sáb"
+					"Dom", "Seg", "Ter", "Qua", "Qui", "Sex", "Sab"
 				],
 				dayOfWeek: ["Domingo", "Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado"]
 			},
