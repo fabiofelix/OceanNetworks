@@ -31,44 +31,33 @@
    <form>
      <fieldset id="form_fields">
       <div class="row">
-        <div class="col-xs-2">
-          <div class="form-group">
-            <label>Buscar lista de arquivos:</label>
-            <label class="checkbox-inline"><input id="check_download_file_list" type="checkbox" /><label>&nbsp;</label></label>
-          </div>
+        <div class="form-group col-md-2">
+          <label class="control-label">Buscar lista de arquivos:</label>
+          <label class="checkbox-inline"><input id="check_download_file_list" type="checkbox" /><label>&nbsp;</label></label>
         </div>
-        <div class="col-xs-4">
-          <div class="form-group">
-            <input id="file_list" type="file" />
-          </div>
+        <div class="form-group col-md-4">
+          <input id="file_list" type="file" />
         </div>        
       </div>
       <div class="row">
-        <div class="col-xs-2">
-          <div class="form-group">
-            <label>Baixar imagens:</label>
-            <label class="checkbox-inline"><input id="check_download_image" type="checkbox" /><label>&nbsp;</label></label>
-          </div>
+        <div class="form-group col-md-2">
+          <label class="control-label">Baixar imagens:</label>
+          <label class="checkbox-inline"><input id="check_download_image" type="checkbox" /><label>&nbsp;</label></label>
         </div>
-        <div class="col-xs-4">
-          <div class="form-group">
-            <input  class="form-control" id = "image_directory" type="text" placeholder="ou Carregar do diretório" />
-          </div>
+        <div class="form-group col-md-4">
+          <input  class="form-control" id = "image_directory" type="text" placeholder="ou Carregar do diretório" />
         </div>        
       </div>
       <div class="row">
-        <div class="col-xs-2">
-          <div class="form-group">
-            <label>Baixar áudios:</label>
-            <label class="checkbox-inline"><input id="check_download_audio" type="checkbox" /><label>&nbsp;</label></label>
-          </div>
+        <div class="form-group col-md-2">
+          <label class="control-label">Baixar áudios:</label>
+          <label class="checkbox-inline"><input id="check_download_audio" type="checkbox" /><label>&nbsp;</label></label>
         </div>
       </div> 
-
       <div class="row">
         <div class="form-group">
-            <label for="station" class="col-sm-2 control-label">Estação:</label>
-            <div class="col-sm-4">
+            <label for="station" class="col-md-2 control-label">Estação:</label>
+            <div class="col-md-4">
               <select id="station" class="form-control selectpicker" data-style="btn-info" >        
                 <option value="CBYIP">CBYIP</option> <span hidden>Arctic/Cambridge Bay/Underwater Network</span>
                 <option value="DIIP">DIIP</option>  <span hidden>Pacific/Chatham Sound/Digby Island Underwater Network</span>
@@ -116,37 +105,32 @@
                 <option value="ECHO2.H4">ECHO1.H4</option> <span hidden>Pacific/Salish Sea/Strait of Georgia/East/Underwater Listening Station - South/JASCO Hydrophone 4</span>          
               </select>
             </div>
-            <div class="col-sm-1">
-              <input class="btn btn-primary" type="button" id="listing_station" name="listing_station" value="Listar Estações" />    
+            <div class="col-md-2">
+              <input class="btn btn-primary form-control" type="button" id="listing_station" name="listing_station" value="Listar Estações" />    
             </div>
-            <div class="col-sm-2">
+            <div class="col-md-2">
               <ul class="nav nav-pills">
                 <li role="presentation" ><a href="http://dmas.uvic.ca/SearchHydrophoneData" target="_blank">Search Hydrophone Data</a></li>
               </ul>
             </div>
         </div>
-        
       </div>  
 
       <br />      
       
       <div class="row">
-        <div class="col-sm-3">        
-          <div class="form-group">
-            <label for="station" class="col-sm-2 control-label" style="padding: 0px">Limiar:</label>
-            <div class="col-sm-2">        
-              <input id="color_value" data-slider-id='color_valueSlider' type="text" data-slider-min="40" data-slider-max="140" data-slider-step="2" data-slider-value="40"/>
-            </div>
+        <div class="form-group col-md-3">        
+          <label for="station" class="col-md-2 control-label" style="padding: 0px">Limiar:</label>
+          <div class="col-md-2">        
+            <input id="color_value" data-slider-id='color_valueSlider' type="text" data-slider-min="40" data-slider-max="140" data-slider-step="2" data-slider-value="40"/>
           </div>
         </div> 
 
-        <div class="col-sm-8">                
-          <div class="form-group">
-            <label for="station" class="col-sm-3 control-label" style="padding: 0px">Filtrar arquivos com mais de</label>
-            <div class="col-sm-4">        
-              <input id="percent_value" data-slider-id='percent_valueSlider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="1" data-slider-value="0"/>
-            </div>
-          </div>  
+        <div class="form-group col-md-8">                
+          <label for="station" class="col-md-3 control-label" style="padding: 0px">Filtrar arquivos com mais de</label>
+          <div class="col-md-4">        
+            <input id="percent_value" data-slider-id='percent_valueSlider' type="text" data-slider-min="0" data-slider-max="100" data-slider-step="1" data-slider-value="0"/>
+          </div>
         </div>           
         
       </div>
@@ -154,23 +138,24 @@
       <br />      
       
       <div class="row">
-        <div class="col-xs-2">
-          <div class="form-group">
-            <label class="col-sm-2 control-label">De:</label>
-            <input class="dates form-control" type="text" id="d0" />
-          </div>
+        <div class="form-group col-md-2">
+          <label class="control-label">De:</label>
+          <input class="dates form-control" type="text" id="d0" />
         </div>
-        <div class="col-xs-2">
-          <div class="form-group">
-            <label>até</label>
-            <input class="dates form-control"  type="text" id="dn" />
-          </div>
+        <div class="form-group col-md-2">
+          <label class="control-label">até</label>
+          <input class="dates form-control"  type="text" id="dn" />
         </div>
       </div>  
       
-      <input class="btn btn-primary" type="button" id="load" name="load" value="Carregar" />
-      <input class="btn btn-primary" type="button" id="list_file" name="list_file" value="Listar arquivos" /> <span id="msg"></span>   
-      
+      <div class="row">
+        <div class="col-md-2">
+          <input class="btn btn-primary form-control" type="button" id="load" name="load" value="Carregar" />
+        </div>
+        <div class="col-md-2">
+          <input class="btn btn-primary form-control" type="button" id="list_file" name="list_file" value="Listar arquivos" /> <span id="msg"></span>   
+        </div>      
+      </div>
      </fieldset>
     </form>
 
