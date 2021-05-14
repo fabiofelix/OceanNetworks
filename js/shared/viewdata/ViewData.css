@@ -1,0 +1,126 @@
+
+#tooltip_view_data {
+  position: absolute;
+  /* min-width: 200px;
+  height: auto;
+  padding: 10px;
+  background-color: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  pointer-events: none; */
+}
+
+#tooltip_view_data.hidden {
+  display: none;
+}
+
+#tooltip_view_data p {
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+#tooltip_view_image 
+{
+  position: absolute;
+  width: 100px;
+  height: 100px;
+/*   padding: 10px; */
+  background-color: white;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  pointer-events: none;
+}
+
+#tooltip_view_image.hidden {
+  display: none;
+}
+
+#tooltip_view_image p {
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+#tooltip_view_image img
+{            
+  width: 100px;
+  height: 100px;
+}
+
+#div_text_content
+{
+  white-space: pre;
+  width: 100%;
+}
+
+#audio_spec
+{
+  max-width: 100%;
+  max-height: 100%;
+}
+
+#audio_sound
+{
+   position: relative;  
+/*  margin-left: 4.3%; 
+  margin-right: 14.3%;  */
+/*  margin-left: 2.4%; 
+  margin-right: 12.8%; */
+}
+
+#audio_equalizer
+{
+  padding: 15px; 
+  padding-bottom: 10px; 
+  width: 600px;  
+  /* width: 550px;   */
+}
+
+.row-spec
+{
+  margin: 0px 0px 5px 0px;  
+}
+
+.dropdown-menu-center 
+{
+  left: 50% !important;
+  right: auto !important;
+  text-align: center !important;
+  transform: translate(-50%, 0) !important;
+}
+
+.eq-slider, .eq-selector
+{
+  display: inline-block;
+  width: 30px;
+  height: 150px;
+  -webkit-appearance: slider-vertical;
+}
+
+.eq-label
+{
+  font-weight: bold;
+}
+
+.eq-value
+{
+  font-weight: oblique;
+}
+
+.my-test
+{
+  width: 50px;
+  padding: 0px;
+}
+

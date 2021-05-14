@@ -1,34 +1,24 @@
-body {
-  font-family:helvetica, clean, sans-serif;
+
+.line_teste
+{ 
+    stroke-width: 2;
+    fill: none;
+    opacity: 1;    
 }
 
-/*table {
-  caption-side: bottom;
-}
-
-table, table th, table td {
-  background-color: white;
-  border-collapse: collapse;
-  border: #AAAAAA 1px solid;
-}
-
-table thead th {
-  background: grey;
-  color: white;
-  font-weight: bold;
-}
-
-td {
-  padding: 2px;
-}*/
-
-
-#loading
+.line_selected
 {
- width:3%; 
- height: auto; 
- position: fixed; 
- top: 50%; 
- left: 50%; 
- visibility: hidden;  
+  stroke-width: 4;
+  opacity: 1;
+  cursor: pointer;
+}
+
+.line_unselected
+{
+  opacity: 0.3;
+}
+
+.circle_path
+{
+  cursor: pointer;
 }
