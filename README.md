@@ -1,3 +1,4 @@
+#
 
 This tool is a simple interface to search/download files from [Ocean Networks](https://www.oceannetworks.ca/).
 We are using its API, but currently owners made available a second version of the [API](https://wiki.oceannetworks.ca/display/O2A/Oceans+2.0+API+Home)
@@ -13,8 +14,19 @@ When the page is ready, the sation list is loaded.
 The user can selection some station in the left list, define a period, inform which data to download (spectrogram or recording+spectogram) and define a filter.
 That filter is applied to spectrograms when one select the *Recording* option to reduce the data amount downloaded and improve time consuming.
 
-When selecting a color channel (red, blue, or green), each pixel value will be transformated in 2\*SELECTED_CHANNEL - REMAIN_CHANNEL1 - REMAIN_CHANNEL2 (e.g., 2\*red - blue - green).
-The resulted value is compared with a threshold (value between 0 and 255) selected and if the value is less than the threshold then the pixel will be set to black.
+When selecting a color channel (red, blue, or green), each pixel value will be mapped to
+
+```math
+2\times ch_{selected} - remain_{ch1} - remain_{ch2}.
+```
+
+An example is when one selects green color
+
+```math
+2\times green - red - blue.
+```
+
+That resulted value is compared with a threshold (value between 0 and 255) selected and if the value is less than the threshold then the pixel will be set to black.
 At the end, if more than 50\% of the spectrogram pixels are not black then the recording will be downloaded.
 
 After clicking in the search button, the system downloads a file list and starts to download each file in the list.
