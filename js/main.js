@@ -1,10 +1,6 @@
 const PATH_STATIONS = "http://dmas.uvic.ca/api/stations";
 const PATH_ARCHIVE  = "http://dmas.uvic.ca/api/archivefiles";
-
-const TOKEN_1 = "d56dc3dd-05bb-46d1-bf23-44443830f8b5";
-const TOKEN_2 = "3c6cc174-9b36-44b6-8dd5-e9a562c93ae2";
-const TOKEN_3 = "a3079716-7d07-4d4a-bb5d-e521ad60b784";
-const TOKEN_4 = "ac68a483-c394-4ebf-882a-06ce11b08dea";
+const TOKEN_1 = "d56dc3dd-05bb-46d1-bf23-44443830f8b5";  //found in documentation
 
 var OPTIONS = null;
 
