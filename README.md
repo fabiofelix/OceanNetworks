@@ -1,18 +1,18 @@
 #
 
 This tool is a simple interface to search/download files from [Ocean Networks](https://www.oceannetworks.ca/).
-We are using its API, but currently owners made available a second version of the [API](https://wiki.oceannetworks.ca/display/O2A/Oceans+2.0+API+Home)
+We are using its API, but currently, owners made available a second version of the [API](https://wiki.oceannetworks.ca/display/O2A/Oceans+2.0+API+Home)
 
 ## Getting Started
 
-Install some web server (such as apache, nginx, etc.) and put the files inside the directory structure.
-In some servers, such as apache, you should edit the configuration file to allow scripts to have more time to response (e.g., max_execution_time and max_input_time in php.ini).
+Install some web server (such as Apache, Nginx, etc.) and put the files inside the directory structure.
+In some servers, such as Apache, you should edit the configuration file to allow scripts to have more time to respond (e.g., max_execution_time and max_input_time in php.ini).
 
 ## How does it work?
 
-When the page is ready, the sation list is loaded.
-The user can selection some station in the left list, define a period, inform which data to download (spectrogram or recording+spectogram) and define a filter.
-That filter is applied to spectrograms when one select the *Recording* option to reduce the data amount downloaded and improve time consuming.
+When the page is ready, the station list is loaded.
+The user can select some station in the left list, define a period, inform which data to download (spectrogram or recording+spectogram) and define a filter.
+That filter is applied to spectrograms when one selects the *Recording* option to reduce the data amount downloaded and improve time-consuming.
 
 When selecting a color channel (red, blue, or green), each pixel value will be mapped to
 
@@ -20,33 +20,33 @@ When selecting a color channel (red, blue, or green), each pixel value will be m
 2\times ch_{selected} - remain_{ch1} - remain_{ch2}.
 ```
 
-An example is when one selects green color
+An example is when one selects the green color
 
 ```math
 2\times green - red - blue.
 ```
 
-That resulted value is compared with a threshold (value between 0 and 255) selected and if the value is less than the threshold then the pixel will be set to black.
-At the end, if more than 50\% of the spectrogram pixels are not black then the recording will be downloaded.
+That resulting value is compared with a threshold (value between 0 and 255) selected and if the value is less than the threshold then the pixel will be set to black.
+In the end, if more than 50\% of the spectrogram pixels are not black then the recording will be downloaded.
 
-After clicking in the search button, the system downloads a file list and starts to download each file in the list.
+After clicking on the search button, the system downloads a file list and starts to download each file in the list.
 The progress is presented in the grid and can take much time to finish.
 
 ## Directory structure
 
-Files will be downloaed inside *data/img* and *data/record* directories. 
+Files will be downloaded inside *data/img* and *data/record* directories. 
 
-> obs.: Browsers such as Firefox and Google Chrome can play only audios in PCM at 8 or 16 bits per sample.
+> obs.: Browsers such as Firefox and Google Chrome can play only audio in PCM at 8 or 16 bits per sample.
 
 ## Data presentation
 
 When a user clicks on a table links, the recording is presented in a player with basic functions (forward, play/pause, backward) and equalizer controls. 
-Besides, mouse hover on audio track shows time,
+Besides, mouse hover on the audio track shows time,
 a mouse click can forward, and backward. 
-Track can not fit in spectrogram image width, depending on the dimensions of the image.
-To dial with it, the audio track can be resized and repositioned with mouse click and drag;
+The track can not fit in the spectrogram image width, depending on the dimensions of the image.
+To deal with it, the audio track can be resized and repositioned with a mouse click and drag;
 
-> obs.: Browsers such as Firefox and Google Chrome can play only audios in PCM at 8 or 16 bits per sample.
+> obs.: Browsers such as Firefox and Google Chrome can play only audio in PCM at 8 or 16 bits per sample.
 
 ## Some examples
 
